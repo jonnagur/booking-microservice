@@ -56,6 +56,16 @@
 			<artifactId>spring-cloud-starter-bootstrap</artifactId>
 			<version>3.1.3</version>
 		</dependency>
+		<dependency>
+			<groupId>com.wannacode</groupId>
+			<artifactId>booking-microservice</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-bus-amqp</artifactId>
+			<version>3.1.2</version>
+		</dependency>
 	</dependencies>
 
 	<build>
